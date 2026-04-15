@@ -19,9 +19,3 @@
   python cli.py get github.com                                                                        
   python cli.py rm gitlab.com                                                                         
   EOL                                                                                                 
-                                                                                                      
-  4. **Commit da documentação:**                                                                      
-  ```bash                                                                                             
-  git add README.md                                                                                   
-  git commit -m "Add initial documentation"                                                           
-  git push origin main
