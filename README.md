@@ -13,8 +13,6 @@
   ```bash                                                                                             
   pip install cryptography                                                                            
                                                                                                       
-  Uso                                                                                                 
-                                                                                                      
   python cli.py add github.com meu_usuario                                                            
   python cli.py get github.com                                                                        
   python cli.py rm gitlab.com                                                                         
